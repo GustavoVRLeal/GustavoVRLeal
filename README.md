@@ -1,12 +1,10 @@
-<p align="center">
-  <strong style="font-size: 48px;">
-    Gustavo Vallim
-  </strong>
-  <br>
-  <span style="font-size: 20px;">
-    Full Stack Developer
-  </span>
-</p>
+<h1 align="center" style="border-bottom: none;">
+  Gustavo Vallim
+</h1>
+
+<h3 align="center">
+  Full Stack Developer
+</h3>
 
 ## Skills
 
