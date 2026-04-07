@@ -1,10 +1,6 @@
-<h1 align="center" style="border-bottom: none;">
-  Gustavo Vallim
-</h1>
-
-<h3 align="center">
-  Full Stack Developer
-</h3>
+<p align="center">
+  <img src= "https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:06B6D4&height=300&section=header&fontColor=ffffff&text=Gustavo%20Vallim&desc=Information%20Technology%20|%20Full%20Stack%20Developer&descAlign=50&descAlignY=65")/>
+</p>
 
 ## Skills
 
