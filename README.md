@@ -1,6 +1,12 @@
-<h1 aling="center">Gustavo Vallim</h1>
-
-<p align="center">Full Stack Developer</p>
+<p align="center">
+  <span style="font-size: 42px; font-weight: 700; font-family: Arial, Helvetica, sans-serif;">
+    Gustavo Vallim
+  </span>
+  <br>
+  <span style="font-size: 18px; font-weight: 500; font-family: Arial, Helvetica, sans-serif;">
+    Full Stack Developer
+  </span>
+</p>
 
 <div>   
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoVRLeal&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117"/>
