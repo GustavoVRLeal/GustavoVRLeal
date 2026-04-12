@@ -3,7 +3,7 @@
 </p>
 
 ## 🧠 About me 
-<p>🧑🏻‍💻 Full Stack Developer for 1 year</p> 
+<p>🧑🏻‍💻 Brazilian Full Stack Developer for 1 year</p> 
 <p>🎓 Undergraduate student in information systems, 7th semester at <a href="https://ugb.edu.br/">UGB</a></p>
 
 
